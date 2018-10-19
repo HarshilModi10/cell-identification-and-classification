@@ -15,7 +15,7 @@ The software was used to count double positive cells of (DAPI/Tbr1, DAPI/Tbr2, D
 8.	Annotation: Click ‘run’ for the toolbar then ‘run’ again. You will notice that cells will be highlighted on the picture.
 9.	Select ‘annotation’ from the toolbar and the count data will be provided in the bottom left table 
 
-ONLY SAMPLE DATA/SCRIPTS WERE PROVIDED FOR SECURITY REASONS.
+### ONLY SAMPLE DATA/SCRIPTS WERE PROVIDED FOR SECURITY REASONS.
 
 ## Original: Tbr1, GFP, Dapi stainning 1002
 ![triple postive 1001](sample_data/Original%20Pictures/1001A.png)
