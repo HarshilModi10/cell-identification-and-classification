@@ -17,5 +17,8 @@ The software was used to count double positive cells of (DAPI/Tbr1, DAPI/Tbr2, D
 
 ONLY SAMPLE DATA/SCRIPTS WERE PROVIDED FOR SECURITY REASONS.
 
-Original:
+Original: Tbr1, GFP, Dapi stainning 1002
+![triple postive 1001](sample_data/Original%20Pictures/1001.png)
+
+Proccessed: Tbr1, GFP, Dapi stainning 1002
 ![triple postive 1001](sample_data/Original%20Pictures/1001.png)
