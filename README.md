@@ -21,4 +21,4 @@ Original: Tbr1, GFP, Dapi stainning 1002
 ![triple postive 1001](sample_data/Original%20Pictures/1001.png)
 
 Proccessed: Tbr1, GFP, Dapi stainning 1002
-![triple postive 1001](sample_data/Original%20Pictures/1001.png)
+![triple postive 1001](sample_data/Processed%20Pictures/1002A.png)
